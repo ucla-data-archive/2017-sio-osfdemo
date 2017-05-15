@@ -1,4 +1,4 @@
-# OSF Demo for GPS 2017
+# OSF Demo for SIO RRROBOTS Course 2017
 
 ##### Lesson adapted from:
 Jolene Esposito OSF-Curriculum
