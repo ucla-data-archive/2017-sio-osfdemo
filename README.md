@@ -1,2 +1,3 @@
 # 2017-sio-osfdemo
-OSF Demo for RRROBOTS course
+OSF Demo and exercises.
+
