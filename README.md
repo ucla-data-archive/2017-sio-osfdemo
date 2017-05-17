@@ -1,3 +1,3 @@
-# 2017-sio-osfdemo
+# 2017 OSF Demo script
 OSF Demo and exercises.
 
