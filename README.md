@@ -1,5 +1,12 @@
-# 2017 OSF Demo script
-OSF Demo and exercises.
+## Workshop 1: Feb 6, 2018 
 
-Data folder includes sample data files for organizing in the TIER Documentation Folders.  Also included is a zip file example of the the TIER 3.0 protocol documentation folder structure.
+### Goals & Learning Outcomes 
+
+After this workshop, learners will be able to: 
+
+* Explain the problem that reproducible research methods is trying to ameliorate 
+* Describe the concepts and fundamentals practicies of reproducible research methods (RRM) 
+* Articulate the benefits that RRM to the researcher – credit for their work, transparency, valid science 
+* Create a project in Open Science Framework using best practices in project directory structure. 
+* Demonstrate how to collaborate among a team in OSF.
 
