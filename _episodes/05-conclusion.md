@@ -1,15 +1,16 @@
-# OSF Demo for SIO RRROBOTS Course 2017
+---
+title: "Conclusion"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "Concluding objectives"
+keypoints:
+- "Fist key point."
+---
 
 ##### Lesson adapted from csoderberg OSF-Curriculum https://github.com/csoderberg/OSF-Curriculum
-
-
-
-# Conclusion
-
-
-
-
-
 
 ## Take-aways
 
@@ -25,12 +26,9 @@ Figuring out how to apply examples to your particular needs can be challenging. 
 
 * If you want to review any of the workshop content, it is all available here:
 https://github.com/csoderberg/OSF-Curriculum
-
 * If you need help with the OSF for Institutions at UC San Diego visit the Library Data & GIS Lab or contact:
 data-consult@ucsd.edu
-
 * If you have specific questions, the Center for Open Science provides completely free, one-on-one stats and methods consulting over email and google hangouts:
 stats-consulting@cos.io
-
 * If you have questions about the OSF, there is a helpdesk manned by a real person who can help you through any issues or questions you might have:
 support@osf.io
