@@ -21,7 +21,7 @@ Do you have your data yet? Do you have a thesis for your project?
 * We talked before about the problems that can arise when we either don’t document work, or we try and go and back document work once a study is accepted for publication. This becomes even more challenging when you have multiple collaborators, especially if they are at different institutions, and you have been sending materials back and forth by email.
 * What you’ll often end up with is a very distribute network of materials, so you’ll have some things on your computer, some things in dropbox, a bunch of different version of some things going back and forth in various email threads.
 * Collaborators perhaps getting out of version sync with each other…this makes it very difficult to try and go back and recreate the workflow or find particular files.
-* to solve some of these problems, we’re going to set up a collaborate space for our research study using the OSF to help document and organize our research all in one place for everyone involved in the project.
+* to solve some of these problems, we’re going to set up a collaboration space for our research study using the OSF to help document and organize our research all in one place for everyone involved in the project.
 * Now that you’re all signed in, you should be all be seeing the **project dashboard**.
 * A **project** on the site can be anything: a lab group, an organization, a grant, a line of research, an individual experiment, etc.
 
@@ -50,6 +50,8 @@ The **project overview** page has a few different sections:
 * **citation widget**, which shows you the automatically generated citation for the project
 * **GUID** the little 5 letter string at the end of the **osf.io** url.  This **entire address is a GUID, or a permanent, unique identifier.** This address has been assigned to this project page and will point back to it unless the project is deleted.
 
+Now, the group member who created the project give the other collaborators the URL with the GUID. Have them naviate to that URL.
+
 >## Discussion
 >What are collaborators/contributors seeing after typing in GUID of the project the administrator created?
 >
@@ -58,10 +60,10 @@ The **project overview** page has a few different sections:
 {: .discussion}
 
 ## Private by Default
-> * The administrator/creator is the only contributor on the project because they created it.
-> * This means that only people who have been added as **contributors** to the project have access to it and can see and/or edit it.
+* The administrator/creator is the only contributor on the project because they created it.
+* This means that only people who have been added as **contributors** to the project have access to it and can see and/or edit it.
 
-> ## Adding Collaborative
+> ## Adding Collaborators
 >1. Since we want this to be a **collaborative project**, we need to **give the other members of your team access to the project.**
 >2. Go up to the **contributors tab** and click on that, this is how you can add people as contributors.
 >   * In this section each person is given a permission setting for access to the project.
@@ -78,9 +80,15 @@ The **project overview** page has a few different sections:
 
 Notice that all three people are listed as contributors on the project, and that they are all now also listed in the auto generated citation for the project.
 
-## ***Tip***
-If for some reason you wanted to give someone access to the project but did not want to give them authorship credit, just acknowledgements, you can do this by going back to the **sharing screen** and **unchecking** the **bibliographic contributor** box next to that person’s name.
+> ## Adding your professor
+> Now, add your professor to the project as **read** and **non-bibiographic** contributor
+> This means she won't show up in the citation that is auto-generated with OSF
+{: .challenge}
 
+
+>## Tip
+>If for some reason you wanted to give someone access to the project but did not want to give them authorship credit, just acknowledgements, you can do this by going back to the **sharing screen** and **unchecking** the **bibliographic contributor** box next to that person’s name.
+{: .callout}
 
 ## The OSF wiki
 

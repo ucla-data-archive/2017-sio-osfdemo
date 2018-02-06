@@ -23,7 +23,7 @@ Researchers often have three broad goals for their work:
 
 There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable.
 
-This demo will introduce standard research practices that lead scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability.
+This workshop will introduce standard research practices that lead scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability.
 
 ### What is the Reproducibility?
 
