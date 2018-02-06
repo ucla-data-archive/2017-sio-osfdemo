@@ -134,22 +134,6 @@ Once the component is created, we can go into it and see that the inside of all 
 
 **Folders are just about organizing files together**, while **components** are good for setting up large sections of a project.
 
-
-### Folder organization using the **TIER Protocol 3.0**
-
-One good example of folder organization is adding the **TIER Protocol 3.0** folder structure to the project.
-
-The TIER Protocol (Teaching Integrity in Empirical Research) provides guidance to students conducting quantitative research to help ensure that their work is transparent and reproducible.
-
-The Specifications of the TIER Protocol give a complete description of the replication documentation that should be preserved with your study when you have finished the project.
-
-This documentation includes:
-
-* The data used for the project.
-* Command files, containing code written for your software, that clean and prepare the data as necessary, and then execute the procedures that generate the results reported in your study.
-* Various forms of supporting information to help a user understand and make use of your documentation.
-<http://www.projecttier.org/tier-protocol/specifications/>
-
 >## Tip
 > You can also nest components within components.
 >
@@ -159,7 +143,6 @@ This documentation includes:
 > ## Create project structure using folders/components
 > 1. Set up some initial structure for your project.
 > 2. Think through what are the major categories of file types you’ll have, and whether you might want to have different contributors or public vs. private access setting for them to determine whether you want to set them up as folders or components.
-> 3. Use the TIER Protocol 3.0 folder structure.
 >  * Or experiment with setting up components.
 {: .challenge}
 
