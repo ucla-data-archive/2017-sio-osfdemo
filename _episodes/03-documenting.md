@@ -28,6 +28,7 @@ You always want to **keep a copy of our complete, raw data file.** Even if we en
 >## Upload raw data file and data dictionary
 >
 >* Name the data file accordingly and upload it to the appropriate section of you project.
+>  * If you need a data file, download and use this file <gapminder.csv>
 >* We also want to upload the data dictionary so we’ll always know what our variable names actually mean.
 {: .challenge}
 
