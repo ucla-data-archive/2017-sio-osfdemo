@@ -28,7 +28,7 @@ You always want to **keep a copy of our complete, raw data file.** Even if we en
 >## Upload raw data file and data dictionary
 >
 >* Name the data file accordingly and upload it to the appropriate section of you project.
->  * If you need a data file, download and use this file <gapminder.csv>
+>  * If you need a data files, download this zip of data, figures, and text [files-osf-example](https://github.com/ucla-data-archive/2018-env-188b/raw/master/data/files-osf-examples.zip)
 >* We also want to upload the data dictionary so we’ll always know what our variable names actually mean.
 {: .challenge}
 
